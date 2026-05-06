@@ -99,23 +99,23 @@ Built a 2-tab interactive dashboard:
 
 ## 📂 Repository Structure
 
-  marketing-analytics-project/
-    ├── README.md
-    ├── data/
-    │   ├── marketing_campaign.csv             (raw)
-    │   ├── marketing_campaign_clean.csv       (after cleaning)
-    │   └── marketing_campaign_labeled.csv     (with cluster labels)
-    ├── notebooks/
-    │   ├── 01_data_exploration.ipynb
-    │   ├── 02_business_analysis.ipynb
-    │   └── 03_customer_segmentation.ipynb
-    ├── dashboard/
-    │   └── Marketing_dashboard.twbx
-    └── images/
-        ├── dashboard_tab1.png
-        └── dashboard_tab2.png
-
----
+```text
+marketing-analytics-project/
+├── README.md
+├── Data/
+│   ├── marketing_campaign.csv             (raw)
+│   ├── marketing_campaign_clean.csv       (after cleaning)
+│   └── marketing_campaign_labeled.csv     (with cluster labels)
+├── Notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_business_analysis.ipynb
+│   └── 03_customer_segmentation.ipynb
+├── Dashboard/
+│   └── Marketing_dashboard.twbx
+└── Images/
+    ├── dashboard_tab1.png
+    └── dashboard_tab2.png
+```
 
 ## 📊 Data Source
 
