@@ -2,7 +2,7 @@
 
 > **End-to-end customer analytics project** identifying high-value customer personas and recommending a targeted campaign strategy projected to lift response rate from 15% → 24% while reducing campaign volume by 65%.
 
-![Customer Personas Dashboard](images/dashboard_tab1.png)
+![Customer Personas Dashboard](Images/dashboard_tab1.png)
 
 ---
 
@@ -52,7 +52,7 @@ Targeting only the top 2 personas (35% of customer base) is projected to lift re
 | ⚠️ Different strategy | Engaged Mid-Spenders | High spend but low campaign response, use in-store promo |
 | ❌ Deprioritize | Disengaged Budget Customers | 8% response, lowest revenue per customer, marketing spend wasted |
 
-![Campaign Recommendations](images/dashboard_tab2.png)
+![Campaign Recommendations](Images/dashboard_tab2.png)
 
 ---
 
